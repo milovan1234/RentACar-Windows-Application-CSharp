@@ -1,0 +1,144 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Automobil id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbr>2</idbr>
+<marka id="ref-3">Mercedes</marka>
+<model id="ref-4">E280</model>
+<godiste>2013</godiste>
+<kubikaza>2800</kubikaza>
+<pogon id="ref-5">Zadnji</pogon>
+<vrstaMenjaca id="ref-6">Manuelni</vrstaMenjaca>
+<karoserija id="ref-7">Limuzina</karoserija>
+<gorivo id="ref-8">Benzin</gorivo>
+<brojVrata>5</brojVrata>
+</a1:Automobil>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Automobil id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbr>3</idbr>
+<marka id="ref-3">Mercedes</marka>
+<model id="ref-4">S600</model>
+<godiste>2013</godiste>
+<kubikaza>6000</kubikaza>
+<pogon id="ref-5">4x4</pogon>
+<vrstaMenjaca id="ref-6">Manuelni</vrstaMenjaca>
+<karoserija id="ref-7">Limuzina</karoserija>
+<gorivo id="ref-8">Dizel</gorivo>
+<brojVrata>5</brojVrata>
+</a1:Automobil>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Automobil id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbr>4</idbr>
+<marka id="ref-3">Volkswagen</marka>
+<model id="ref-4">Golf 6</model>
+<godiste>2014</godiste>
+<kubikaza>1900</kubikaza>
+<pogon id="ref-5">Prednji</pogon>
+<vrstaMenjaca id="ref-6">Manuelni</vrstaMenjaca>
+<karoserija id="ref-7">Hečbek</karoserija>
+<gorivo id="ref-8">Dizel</gorivo>
+<brojVrata>3</brojVrata>
+</a1:Automobil>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Automobil id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbr>5</idbr>
+<marka id="ref-3">Fiat</marka>
+<model id="ref-4">Grande Punto</model>
+<godiste>2010</godiste>
+<kubikaza>1400</kubikaza>
+<pogon id="ref-5">Prednji</pogon>
+<vrstaMenjaca id="ref-6">Manuelni</vrstaMenjaca>
+<karoserija id="ref-7">Hečbek</karoserija>
+<gorivo id="ref-8">Benzin+TNG</gorivo>
+<brojVrata>5</brojVrata>
+</a1:Automobil>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Automobil id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbr>6</idbr>
+<marka id="ref-3">Fiat</marka>
+<model id="ref-4">Grande Punto</model>
+<godiste>2011</godiste>
+<kubikaza>1800</kubikaza>
+<pogon id="ref-5">Prednji</pogon>
+<vrstaMenjaca id="ref-6">Manuelni</vrstaMenjaca>
+<karoserija id="ref-7">Hečbek</karoserija>
+<gorivo id="ref-8">Dizel</gorivo>
+<brojVrata>5</brojVrata>
+</a1:Automobil>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Automobil id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbr>7</idbr>
+<marka id="ref-3">Fiat</marka>
+<model id="ref-4">Grande Punto</model>
+<godiste>2010</godiste>
+<kubikaza>1600</kubikaza>
+<pogon id="ref-5">Prednji</pogon>
+<vrstaMenjaca id="ref-6">Automatski</vrstaMenjaca>
+<karoserija id="ref-7">Karavan</karoserija>
+<gorivo id="ref-8">Benzin</gorivo>
+<brojVrata>3</brojVrata>
+</a1:Automobil>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Automobil id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbr>8</idbr>
+<marka id="ref-3">Mercedes</marka>
+<model id="ref-4">E280</model>
+<godiste>2012</godiste>
+<kubikaza>2800</kubikaza>
+<pogon id="ref-5">Prednji</pogon>
+<vrstaMenjaca id="ref-6">Manuelni</vrstaMenjaca>
+<karoserija id="ref-7">Karavan</karoserija>
+<gorivo id="ref-8">Benzin</gorivo>
+<brojVrata>5</brojVrata>
+</a1:Automobil>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Automobil id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbr>9</idbr>
+<marka id="ref-3">Mercedes</marka>
+<model id="ref-4">E280</model>
+<godiste>2013</godiste>
+<kubikaza>2800</kubikaza>
+<pogon id="ref-5">Zadnji</pogon>
+<vrstaMenjaca id="ref-6">Manuelni</vrstaMenjaca>
+<karoserija id="ref-7">Limuzina</karoserija>
+<gorivo id="ref-8">Benzin</gorivo>
+<brojVrata>5</brojVrata>
+</a1:Automobil>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Automobil id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbr>10</idbr>
+<marka id="ref-3">Volkswagen</marka>
+<model id="ref-4">Golf 6</model>
+<godiste>2014</godiste>
+<kubikaza>2200</kubikaza>
+<pogon id="ref-5">4x4</pogon>
+<vrstaMenjaca id="ref-6">Automatski</vrstaMenjaca>
+<karoserija id="ref-7">Hečbek</karoserija>
+<gorivo id="ref-8">Benzin+TNG</gorivo>
+<brojVrata>5</brojVrata>
+</a1:Automobil>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

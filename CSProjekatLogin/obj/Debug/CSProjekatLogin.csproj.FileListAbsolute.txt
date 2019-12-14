@@ -1,0 +1,30 @@
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\bin\Debug\CSProjekatLogin.exe.config
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\bin\Debug\CSProjekatLogin.exe
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\bin\Debug\CSProjekatLogin.pdb
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.csprojAssemblyReference.cache
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.Form1.resources
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.FormKupac.resources
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.Properties.Resources.resources
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.csproj.GenerateResource.cache
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.csproj.CoreCompileInputs.cache
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.exe
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.pdb
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.FormAdmin.resources
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.NoviNalog.resources
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.FormRezervacija.resources
+C:\Users\Sreja\source\repos\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.FormIzmenaPodataka.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\bin\Debug\CSProjekatLogin.exe.config
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\bin\Debug\CSProjekatLogin.exe
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\bin\Debug\CSProjekatLogin.pdb
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.csprojAssemblyReference.cache
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.Form1.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.FormAdmin.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.FormIzmenaPodataka.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.FormKupac.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.FormRezervacija.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.NoviNalog.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.Properties.Resources.resources
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.csproj.GenerateResource.cache
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.csproj.CoreCompileInputs.cache
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.exe
+D:\MILOVAN PODACI\FLES TRECA VERZIJA\VISUAL STUDO 2017 PROJEKTI\CSProjekatLogin\CSProjekatLogin\obj\Debug\CSProjekatLogin.pdb

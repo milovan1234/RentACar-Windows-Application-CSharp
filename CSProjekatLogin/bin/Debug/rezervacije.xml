@@ -1,0 +1,77 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Rezervacija id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>10</idbrAutomobila>
+<idbrKupca>4</idbrKupca>
+<datumOd>2020-01-09T23:11:30.0000000+01:00</datumOd>
+<datumDo>2020-01-20T23:11:30.0000000+01:00</datumDo>
+<cena>44400</cena>
+</a1:Rezervacija>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Rezervacija id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>2</idbrAutomobila>
+<idbrKupca>6</idbrKupca>
+<datumOd>2019-06-02T23:24:17.0000000+02:00</datumOd>
+<datumDo>2019-06-12T23:24:17.0000000+02:00</datumDo>
+<cena>40700</cena>
+</a1:Rezervacija>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Rezervacija id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>4</idbrAutomobila>
+<idbrKupca>3</idbrKupca>
+<datumOd>2019-05-05T00:19:13.0000000+02:00</datumOd>
+<datumDo>2019-05-20T00:19:13.0000000+02:00</datumDo>
+<cena>57600</cena>
+</a1:Rezervacija>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Rezervacija id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>2</idbrAutomobila>
+<idbrKupca>6</idbrKupca>
+<datumOd>2020-01-01T01:40:15.0000000+01:00</datumOd>
+<datumDo>2020-01-31T01:40:15.0000000+01:00</datumDo>
+<cena>86800</cena>
+</a1:Rezervacija>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Rezervacija id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>3</idbrAutomobila>
+<idbrKupca>4</idbrKupca>
+<datumOd>2020-01-04T01:43:20.0000000+01:00</datumOd>
+<datumDo>2020-01-10T01:43:20.0000000+01:00</datumDo>
+<cena>25900</cena>
+</a1:Rezervacija>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Rezervacija id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>7</idbrAutomobila>
+<idbrKupca>8</idbrKupca>
+<datumOd>2020-01-01T01:51:34.0000000+01:00</datumOd>
+<datumDo>2020-06-20T01:51:34.0000000+02:00</datumDo>
+<cena>430000</cena>
+</a1:Rezervacija>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Rezervacija id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>5</idbrAutomobila>
+<idbrKupca>4</idbrKupca>
+<datumOd>2019-05-01T16:07:08.0000000+02:00</datumOd>
+<datumDo>2019-05-03T16:07:08.0000000+02:00</datumDo>
+<cena>7500</cena>
+</a1:Rezervacija>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

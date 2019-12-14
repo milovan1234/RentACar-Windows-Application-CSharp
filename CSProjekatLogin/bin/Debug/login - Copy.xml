@@ -1,0 +1,118 @@
+﻿<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Administrator id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<titulaAdmina id="ref-3">Glavni administrator</titulaAdmina>
+<ime id="ref-4">Milovan</ime>
+<prezime id="ref-5">Srejić</prezime>
+<korisnickoIme id="ref-6">admin</korisnickoIme>
+<lozinka id="ref-7">admin</lozinka>
+<datumRodjenja id="ref-8">31/01/1998</datumRodjenja>
+<idbr>1</idbr>
+<Korisnik_x002B_ime href="#ref-4"/>
+<Korisnik_x002B_prezime href="#ref-5"/>
+<Korisnik_x002B_korisnickoIme href="#ref-6"/>
+<Korisnik_x002B_lozinka href="#ref-7"/>
+<Korisnik_x002B_datumRodjenja href="#ref-8"/>
+<Korisnik_x002B_idbr>1</Korisnik_x002B_idbr>
+</a1:Administrator>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Kupac id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<jmbg>1809998781011</jmbg>
+<telefon id="ref-3">060 020-2794</telefon>
+<ime id="ref-4">Anđela</ime>
+<prezime id="ref-5">Gobeljić</prezime>
+<korisnickoIme id="ref-6">andja98</korisnickoIme>
+<lozinka id="ref-7">andja98</lozinka>
+<datumRodjenja id="ref-8">18/09/1998</datumRodjenja>
+<idbr>3</idbr>
+<Korisnik_x002B_ime href="#ref-4"/>
+<Korisnik_x002B_prezime href="#ref-5"/>
+<Korisnik_x002B_korisnickoIme href="#ref-6"/>
+<Korisnik_x002B_lozinka href="#ref-7"/>
+<Korisnik_x002B_datumRodjenja href="#ref-8"/>
+<Korisnik_x002B_idbr>3</Korisnik_x002B_idbr>
+</a1:Kupac>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Kupac id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<jmbg>2201969791011</jmbg>
+<telefon id="ref-3">063 627-899</telefon>
+<ime id="ref-4">Slavica</ime>
+<prezime id="ref-5">Srejić</prezime>
+<korisnickoIme id="ref-6">slavica69</korisnickoIme>
+<lozinka id="ref-7">slavica69</lozinka>
+<datumRodjenja id="ref-8">22/01/1969</datumRodjenja>
+<idbr>6</idbr>
+<Korisnik_x002B_ime href="#ref-4"/>
+<Korisnik_x002B_prezime href="#ref-5"/>
+<Korisnik_x002B_korisnickoIme href="#ref-6"/>
+<Korisnik_x002B_lozinka href="#ref-7"/>
+<Korisnik_x002B_datumRodjenja href="#ref-8"/>
+<Korisnik_x002B_idbr>6</Korisnik_x002B_idbr>
+</a1:Kupac>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Kupac id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<jmbg>2106998782121</jmbg>
+<telefon id="ref-3">063 788-520</telefon>
+<ime id="ref-4">Aleksandar</ime>
+<prezime id="ref-5">Đorđević</prezime>
+<korisnickoIme id="ref-6">hasan98</korisnickoIme>
+<lozinka id="ref-7">hasan98</lozinka>
+<datumRodjenja id="ref-8">21/06/1998</datumRodjenja>
+<idbr>8</idbr>
+<Korisnik_x002B_ime href="#ref-4"/>
+<Korisnik_x002B_prezime href="#ref-5"/>
+<Korisnik_x002B_korisnickoIme href="#ref-6"/>
+<Korisnik_x002B_lozinka href="#ref-7"/>
+<Korisnik_x002B_datumRodjenja href="#ref-8"/>
+<Korisnik_x002B_idbr>8</Korisnik_x002B_idbr>
+</a1:Kupac>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Administrator id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<titulaAdmina id="ref-3">administrator</titulaAdmina>
+<ime id="ref-4">Miloš</ime>
+<prezime id="ref-5">Srejić</prezime>
+<korisnickoIme id="ref-6">admin1</korisnickoIme>
+<lozinka id="ref-7">admin1</lozinka>
+<datumRodjenja id="ref-8">06/04/1995</datumRodjenja>
+<idbr>2</idbr>
+<Korisnik_x002B_ime href="#ref-4"/>
+<Korisnik_x002B_prezime href="#ref-5"/>
+<Korisnik_x002B_korisnickoIme href="#ref-6"/>
+<Korisnik_x002B_lozinka href="#ref-7"/>
+<Korisnik_x002B_datumRodjenja href="#ref-8"/>
+<Korisnik_x002B_idbr>2</Korisnik_x002B_idbr>
+</a1:Administrator>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Kupac id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<jmbg>1206998781515</jmbg>
+<telefon id="ref-3">060 071-5706</telefon>
+<ime id="ref-4">Andrija</ime>
+<prezime id="ref-5">Grujić</prezime>
+<korisnickoIme id="ref-6">gruja98</korisnickoIme>
+<lozinka id="ref-7">gruja98</lozinka>
+<datumRodjenja id="ref-8">12/06/1998</datumRodjenja>
+<idbr>4</idbr>
+<Korisnik_x002B_ime href="#ref-4"/>
+<Korisnik_x002B_prezime href="#ref-5"/>
+<Korisnik_x002B_korisnickoIme href="#ref-6"/>
+<Korisnik_x002B_lozinka href="#ref-7"/>
+<Korisnik_x002B_datumRodjenja href="#ref-8"/>
+<Korisnik_x002B_idbr>4</Korisnik_x002B_idbr>
+</a1:Kupac>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

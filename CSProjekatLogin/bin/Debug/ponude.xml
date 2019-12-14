@@ -1,0 +1,180 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>2</idbrAutomobila>
+<cenaPoDanu>2800</cenaPoDanu>
+<datumOd>2019-04-13T13:06:38.0000000+02:00</datumOd>
+<datumDo>2019-04-30T13:06:38.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>2</idbrAutomobila>
+<cenaPoDanu>3400</cenaPoDanu>
+<datumOd>2019-05-01T00:00:00.0000000+02:00</datumOd>
+<datumDo>2019-05-03T00:00:00.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>9</idbrAutomobila>
+<cenaPoDanu>3400</cenaPoDanu>
+<datumOd>2019-04-16T17:27:10.3918774+02:00</datumOd>
+<datumDo>2019-04-30T17:27:10.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>3</idbrAutomobila>
+<cenaPoDanu>5000</cenaPoDanu>
+<datumOd>2019-04-16T17:46:15.3645632+02:00</datumOd>
+<datumDo>2019-04-30T17:46:15.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>3</idbrAutomobila>
+<cenaPoDanu>5400</cenaPoDanu>
+<datumOd>2019-05-02T00:00:00.0000000+02:00</datumOd>
+<datumDo>2019-05-05T00:00:00.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>5</idbrAutomobila>
+<cenaPoDanu>3200</cenaPoDanu>
+<datumOd>2019-04-18T00:00:00.0000000+02:00</datumOd>
+<datumDo>2019-04-30T00:00:00.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>5</idbrAutomobila>
+<cenaPoDanu>2500</cenaPoDanu>
+<datumOd>2019-05-01T00:00:00.0000000+02:00</datumOd>
+<datumDo>2019-05-05T00:00:00.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>5</idbrAutomobila>
+<cenaPoDanu>2900</cenaPoDanu>
+<datumOd>2019-05-06T00:00:00.0000000+02:00</datumOd>
+<datumDo>2019-05-31T00:00:00.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>5</idbrAutomobila>
+<cenaPoDanu>3100</cenaPoDanu>
+<datumOd>2019-06-01T00:00:00.0000000+02:00</datumOd>
+<datumDo>2019-06-12T00:00:00.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>4</idbrAutomobila>
+<cenaPoDanu>3600</cenaPoDanu>
+<datumOd>2019-05-01T16:26:27.0000000+02:00</datumOd>
+<datumDo>2019-05-31T16:26:27.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>10</idbrAutomobila>
+<cenaPoDanu>4000</cenaPoDanu>
+<datumOd>2019-05-01T16:26:27.0000000+02:00</datumOd>
+<datumDo>2019-05-31T16:26:27.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>10</idbrAutomobila>
+<cenaPoDanu>4500</cenaPoDanu>
+<datumOd>2019-06-01T16:26:27.0000000+02:00</datumOd>
+<datumDo>2019-06-12T16:26:27.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>10</idbrAutomobila>
+<cenaPoDanu>4500</cenaPoDanu>
+<datumOd>2019-04-21T23:09:24.1396660+02:00</datumOd>
+<datumDo>2019-04-29T23:09:24.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>10</idbrAutomobila>
+<cenaPoDanu>3700</cenaPoDanu>
+<datumOd>2020-01-05T00:00:00.0000000+01:00</datumOd>
+<datumDo>2020-01-31T00:00:00.0000000+01:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>2</idbrAutomobila>
+<cenaPoDanu>2800</cenaPoDanu>
+<datumOd>2020-01-01T13:06:38.0000000+01:00</datumOd>
+<datumDo>2020-01-31T13:06:38.0000000+01:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>3</idbrAutomobila>
+<cenaPoDanu>3700</cenaPoDanu>
+<datumOd>2020-01-01T01:42:08.0000000+01:00</datumOd>
+<datumDo>2020-01-17T01:42:08.0000000+01:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>7</idbrAutomobila>
+<cenaPoDanu>2500</cenaPoDanu>
+<datumOd>2020-01-01T01:48:25.0000000+01:00</datumOd>
+<datumDo>2020-06-20T01:48:25.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ponuda id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/CSProjekatLogin/CSProjekatLogin%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idbrAutomobila>8</idbrAutomobila>
+<cenaPoDanu>2000</cenaPoDanu>
+<datumOd>2019-07-08T18:51:45.0000000+02:00</datumOd>
+<datumDo>2019-07-28T18:51:45.0000000+02:00</datumDo>
+</a1:Ponuda>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
